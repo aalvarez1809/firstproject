@@ -7,10 +7,12 @@ Description
 ### First Tool
 description of first tool.
 ### Second Tool
-description of seconf tool.
+description of second tool.
+### Third Tool
+desciption of third tool.
 
 ## Things to do in the future
 - item 1
 - item 2
-- item 3
+
 
